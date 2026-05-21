@@ -98,6 +98,7 @@ const EditUsers = () => {
       } else if (mode === 'status') {
         return users[IndexUs].status === index.name
       }
+      return false
     })
     const { name, value } = data[check]
     if (check !== -1 && check !== 0) {
