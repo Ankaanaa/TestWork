@@ -2,8 +2,8 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ankaanaa.github.io/TestWork/",
   "dependencies": {
-    "homepage": "https://ankaanaa.github.io/testWork/",
     "cra-template-typescript": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
